@@ -85,7 +85,7 @@ Receive an evidence-based scorecard:
 
 - **Frontend** — [Streamlit](https://streamlit.io/) for interactive web interface
 - **LLM** — [Groq API](https://groq.com/) via OpenAI-compatible SDK for fast inference
-- **Python** — 3.8+
+- **Python** — 3.13.1
 - **Streaming** — Real-time response streaming for natural conversation flow
 
 ## 📋 Requirements
